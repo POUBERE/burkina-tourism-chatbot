@@ -1,0 +1,162 @@
+# ============================================
+# GITIGNORE - CHATBOT BURKINA FASO
+# ============================================
+
+# FICHIERS SENSIBLES - NE JAMAIS COMMITER
+.env
+.env.local
+.env.production
+.env.*.local
+*.key
+*.pem
+secrets.json
+config.local.py
+
+# ENVIRONNEMENTS VIRTUELS
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.Python
+
+# CHROMADB - Base vectorielle (générée localement)
+chroma_db/
+*.chroma
+*.sqlite3
+
+# PYTHON
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# JUPYTER NOTEBOOK
+.ipynb_checkpoints
+*.ipynb
+profile_default/
+ipython_config.py
+
+# PYTEST
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# STREAMLIT
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# MODÈLES TÉLÉCHARGÉS (trop volumineux)
+models/
+*.bin
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+*.joblib
+
+# LOGS ET DONNÉES TEMPORAIRES
+*.log
+*.sqlite
+*.db
+*.db-journal
+logs/
+temp/
+tmp/
+*.tmp
+
+# ÉDITEURS ET IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# SYSTÈME
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# DONNÉES SENSIBLES OU VOLUMINEUSES
+data/raw/
+data/temp/
+data/*.csv.gz
+data/*.zip
+*.xlsx~
+~$*.xlsx
+~$*.docx
+
+# DOCUMENTATION GÉNÉRÉE
+docs/_build/
+docs/.doctrees/
+site/
+_site/
+
+# FICHIERS DE BACKUP
+*.backup
+*.bak
+*_backup.*
+*.orig
+
+# CACHES
+.cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# ============================================
+# NOTES
+# ============================================
+# Ce fichier protège:
+# 1. Les tokens API (.env)
+# 2. Les modèles téléchargés (trop gros)
+# 3. La base vectorielle (régénérable)
+# 4. Les fichiers temporaires
+# 5. Les configurations locales
+#
+# À conserver dans Git:
+# - Code source (.py)
+# - Données tourisme (data/*.json, data/*.txt)
+# - Documentation (README.md, docs/*.md)
+# - Configuration exemple (.env.example)
+# - Tests (test_*.py)
