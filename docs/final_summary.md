@@ -790,12 +790,12 @@ L'IA au service du tourisme n'est pas qu'une question de technologie, c'est une 
 **COMPAORE Abdoul Bassy Oumar** - Data & Collecte
 
 - Email: abdoumarbassy@gmail.com
-- GitHub: @Hub_Bassy
+- GitHub: @Hub-Bassy
 
 **SOMDO Marcelin** - Tests & Documentation
 
-- Email: somdo.marcelin@example.com
-- GitHub: @somdo-marcelin
+- Email: somdomarcellin@gmail.com
+- GitHub: @Smarcellin7
 
 ### Projet
 
