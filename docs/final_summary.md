@@ -784,13 +784,13 @@ L'IA au service du tourisme n'est pas qu'une question de technologie, c'est une 
 
 **OUEDRAOGO Lassina** - Frontend & Déploiement
 
-- Email: ouedraogo.lassina@example.com
-- GitHub: @ouedraogo-lassina
+- Email: lassinadekatabtenga@gmail.com
+- GitHub: @katabtenga-source
 
 **COMPAORE Abdoul Bassy Oumar** - Data & Collecte
 
-- Email: compaore.bassy@example.com
-- GitHub: @compaore-bassy
+- Email: abdoumarbassy@gmail.com
+- GitHub: @Hub_Bassy
 
 **SOMDO Marcelin** - Tests & Documentation
 
