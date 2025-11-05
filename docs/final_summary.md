@@ -79,8 +79,7 @@ Ce projet implémente un **chatbot intelligent** utilisant l'architecture **RAG 
 1. `scrape_data.py` - Script de web scraping
 2. `data/burkina_tourism_data.json` - Données structurées (87 infos)
 3. `data/burkina_tourism_data.txt` - Données textuelles (~50,000 mots)
-4. `docs/presentation.md` - Présentation PowerPoint (20 slides)
-5. `docs/TEAM_ORGANIZATION.md` - Documentation équipe
+4. `docs/TEAM_ORGANIZATION.md` - Documentation équipe
 
 **Compétences:**
 
@@ -91,7 +90,7 @@ Ce projet implémente un **chatbot intelligent** utilisant l'architecture **RAG 
 
 **Contributions clés:**
 
-- ✅ 87 informations touristiques vérifiées
+- ✅ 50+ informations touristiques vérifiées
 - ✅ Base de données complète (JSON + TXT)
 - ✅ Script scraping automatisé
 - ✅ Présentation PowerPoint professionnelle
@@ -105,7 +104,7 @@ Ce projet implémente un **chatbot intelligent** utilisant l'architecture **RAG 
 **Fichiers GitHub (4 fichiers):**
 
 1. `test_chatbot.py` - Suite de tests complète
-2. `docs/rapport.md` - Rapport projet (45 pages)
+2. `docs/rapport.md` - Rapport projet
 3. `docs/DEPLOYMENT.md` - Guide déploiement détaillé
 4. `.vscode/settings.json` - Configuration IDE
 
@@ -119,7 +118,7 @@ Ce projet implémente un **chatbot intelligent** utilisant l'architecture **RAG 
 **Contributions clés:**
 
 - ✅ Tests 100% réussis (6 tests)
-- ✅ Rapport de 45 pages complet
+- ✅ Rapport complet
 - ✅ Guide de déploiement détaillé
 - ✅ Validation de la qualité
 
@@ -186,7 +185,6 @@ Ce projet implémente un **chatbot intelligent** utilisant l'architecture **RAG 
 | Déploiement         | LASSINA     | ✅ En ligne | 100%             |
 | Documentation       | TOUS        | ✅ Terminée | 100%             |
 | Rapport projet      | MARCELIN    | ✅ Terminé  | 100% (45 pages)  |
-| Présentation        | BASSY OUMAR | ✅ Terminée | 100% (20 slides) |
 
 **Score global : 100% ✅**
 
@@ -205,7 +203,7 @@ Ce projet implémente un **chatbot intelligent** utilisant l'architecture **RAG 
 
 ### Objectifs Fonctionnels ✅
 
-- [x] 87 informations touristiques collectées (BASSY OUMAR)
+- [x] 50+ informations touristiques collectées (BASSY OUMAR)
 - [x] 7 catégories d'information couvertes (BASSY OUMAR)
 - [x] Mémoire conversationnelle (POUBERE)
 - [x] Citations des sources (POUBERE)
@@ -216,8 +214,7 @@ Ce projet implémente un **chatbot intelligent** utilisant l'architecture **RAG 
 
 - [x] Code source complet sur GitHub (TOUS)
 - [x] Application déployée en ligne (LASSINA)
-- [x] Rapport de 45 pages (MARCELIN)
-- [x] Présentation PowerPoint 20 slides (BASSY OUMAR)
+- [x] Rapport (MARCELIN)
 - [x] Guide utilisateur (LASSINA)
 - [x] Documentation technique (TOUS)
 
@@ -462,9 +459,8 @@ Tests Implémentés:
 
 ### Documentation
 
-- [x] README.md - 30+ pages (POUBERE)
-- [x] rapport.md - 45 pages (MARCELIN)
-- [x] presentation.md - 20 slides (BASSY OUMAR)
+- [x] README.md - (POUBERE)
+- [x] rapport.md - (MARCELIN)
 - [x] QUICKSTART.md - Guide rapide (LASSINA)
 - [x] DEPLOYMENT.md - Guide déploiement (MARCELIN)
 - [x] TEAM_ORGANIZATION.md - Organisation (BASSY OUMAR)
@@ -502,7 +498,6 @@ Tests Implémentés:
 ✅ Web scraping
 ✅ Gestion de données
 ✅ Structuration JSON
-✅ Présentation PowerPoint
 ✅ Documentation équipe
 
 ### SOMDO Marcelin
@@ -543,7 +538,6 @@ Tests Implémentés:
 
 - Déploiement
 - Documentation finale
-- Préparation présentation
 
 ### Communication
 
@@ -575,7 +569,7 @@ Tests Implémentés:
 
 **Données:**
 
-- Informations collectées: 87
+- Informations collectées: 50+
 - Mots total: ~50,000
 - Catégories: 7
 - Sources vérifiées: 15+
@@ -583,22 +577,7 @@ Tests Implémentés:
 **Tests:**
 
 - Tests unitaires: 6
-- Tests utilisateurs: 15 personnes
 - Taux de réussite: 100%
-
-**Documentation:**
-
-- Pages de documentation: 100+
-- README: 30 pages
-- Rapport: 45 pages
-- Présentation: 20 slides
-
-**Git:**
-
-- Commits totaux: 143+
-- Branches: 5
-- Pull requests: 20+
-- Contributeurs: 4
 
 ---
 
@@ -816,15 +795,14 @@ L'IA au service du tourisme n'est pas qu'une question de technologie, c'est une 
       - 4 fichiers configuration
       - 7 fichiers documentation
 
-2. **Documentation** (100+ pages) ✅
+2. **Documentation** ✅
 
-      - README.md (30 pages)
-      - rapport.md (45 pages)
-      - presentation.md (20 slides)
-      - QUICKSTART.md (5 pages)
-      - DEPLOYMENT.md (10 pages)
-      - TEAM_ORGANIZATION.md (8 pages)
-      - final_summary.md (ce document, 12 pages)
+      - README.md
+      - rapport.md
+      - QUICKSTART.md
+      - DEPLOYMENT.md
+      - TEAM_ORGANIZATION.md
+      - final_summary.md
 
 3. **Application Déployée** ✅
 
@@ -891,7 +869,7 @@ MARCELIN (20%)     ████████████████████�
 ---
 
 _Document rédigé par POUBERE Abdourazakou - Chef de Projet_
-_Dernière mise à jour: Novembre 2024_
+_Dernière mise à jour: Novembre 2025_
 _Version: 2.0 (Équipe de 4 membres)_
 
 **FIN DU RÉSUMÉ FINAL**
